@@ -175,7 +175,9 @@ Chaque paramètre comprend un nom de variable et un type de données, séparés 
 
 ### Fonctions avec plusieurs paramètres
 
+Vous avez ajouté un paramètre permettant de modifier le message de félicitations en fonction du nom du destinataire. Cependant, vous pouvez également définir plusieurs paramètres pour une fonction, voire même des paramètres avec des types de données différents. Dans cette section, vous modifierez le message de félicitations pour qu'il change aussi en fonction de l'âge du chien.
 
+**Les définitions des paramètres sont séparées par une virgule. De même, lorsque vous appelez une fonction avec plusieurs paramètres, vous séparez également les arguments transmis par une virgule.**
 
 
 
